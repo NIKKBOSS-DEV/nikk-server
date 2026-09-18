@@ -10,8 +10,8 @@
   "banned_udids": [],
   "banned_message": "DEVICE BANNED BY NIKK BOSS\nContaCt admin CliCk to Chat:\nt.me/nikk_boss",
   "allow_admin_bypass": true,
-  "logo_url": "https://raw.githubusercontent.com/pozznik/nikk-server/main/logo.png",
-  "banner_url": "https://raw.githubusercontent.com/pozznik/nikk-server/main/banner.jpg",
+  "logo_url": "https://raw.githubusercontent.com/NIKKBOSS-DEV/nikk-server/main/logo.png",
+  "banner_url": "https://raw.githubusercontent.com/NIKKBOSS-DEV/nikk-server/main/banner.jpg",
   "announcement_title": "NIKK BOSS NOTIFICATION",
   "announcement_message": ""
 }
