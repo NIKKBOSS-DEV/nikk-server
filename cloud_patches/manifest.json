@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "targetBundleID": "com.apple.Preferences",
     "description": "Official patch updates published directly by NIKK BOSS for VIP users.",
-    "downloadURL": "https://raw.githubusercontent.com/pozznik/NIKK-BOSS-XIT/main/server/status.json",
+    "downloadURL": "https://raw.githubusercontent.com/NIKKBOSS-DEV/NIKK-BOSS-XIT/main/server/status.json",
     "publishedAt": "2026-09-17"
   }
 ]
